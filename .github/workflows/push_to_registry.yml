@@ -3,7 +3,7 @@ name: Build-And-Push-to-GHCR-CI
 on:
   push:
     branches:
-      - master
+      - main
 env:
   REGISTRY: ghcr.io
   NAME_IMAGE: iprody/iprody-devs-gr0000000008-customer-service
