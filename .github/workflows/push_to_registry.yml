@@ -6,7 +6,7 @@ on:
       - master
 env:
   REGISTRY: ghcr.io
-  NAME_IMAGE: iprody/iprody-devs-gr0000000008-product-service
+  NAME_IMAGE: iprody/iprody-devs-gr0000000008-customer-service
 
 jobs:
   push_to_github_registry:
