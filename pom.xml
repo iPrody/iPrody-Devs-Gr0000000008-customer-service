@@ -32,7 +32,7 @@
 					<artifactId>maven-checkstyle-plugin</artifactId>
 					<version>3.3.1</version>
 					<configuration>
-						<configLocation>/config/checkstyle/checkstyle.xml</configLocation>
+						<configLocation>/config/checkstyle/checkstyle/checkstyle.xml</configLocation>
 						<propertiesLocation>/config/checkstyle_maven.properties</propertiesLocation>
 					</configuration>
 					<executions>
